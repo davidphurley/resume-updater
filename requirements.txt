@@ -1,0 +1,4 @@
+docx
+python-docx
+requests
+docx2pdf
